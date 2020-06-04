@@ -3866,4 +3866,7 @@
 
   <!-- For Pdn throttle feature -->
   <java-symbol type="bool" name="config_pdp_retry_for_29_33_55_enabled" />
+
+  <!-- Whether device supports variable refresh rate -->
+  <java-symbol type="bool" name="config_hasVariableRefreshRate" />
 </resources>
